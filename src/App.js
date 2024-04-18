@@ -4,20 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+     <img width={100} src='https://www.egradtutor.in/static/media/egate%20logo%201.8b1eb31347d60945925f.png' alt='egt logo' />
     </div>
   );
 }
